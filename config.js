@@ -21,20 +21,20 @@ global.gopay = '089667644225'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'InzMd'
-global.gc = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS'
-global.web = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://saweria.co/arullOfc'
-global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 MINGGU Rp 5.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 10.000\nMAKSIMAL 1 GRUP \n》 Rp 20.000\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN Rp 30.000\nMAKSIMAL 3 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 2 GRUP'
+global.gc = 'https://chat.whatsapp.com/HXf8b6Znnz53UcrdXcWGeo'
+global.web = 'https://chat.whatsapp.com/HXf8b6Znnz53UcrdXcWGeo' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://saweria.co/IndraStore'
+global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 MINGGU Rp 5.000\nMAKSIMAL 5 GRUP\n》1 BULAN  Rp 10.000\nMAKSIMAL 10 GRUP \n》 Rp 20.000\nMAKSIMAL 15 GRUP + PREMIUM\n》PERMANEN Rp 30.000\nMAKSIMAL 20 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 15 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 19 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '↻ArullBotz𝙼𝙳'
+global.wm = '↻InzStore'
 global.watermark = wm
-global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 ArullOfc ×፝֟͜×'
-global.wm3 = 'ᯤ Arull𝙾𝙵𝙲'
+global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 InzStore ×፝֟͜×'
+global.wm3 = 'ᯤ InzStore'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg'
@@ -45,7 +45,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
 global.packname = 'Sticker By'
-global.author = '@ArullOfc✵'
+global.author = '@InzGanz✵'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
